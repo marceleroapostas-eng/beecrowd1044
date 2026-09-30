@@ -1,8 +1,8 @@
-\# Beecrowd 1044 - Múltiplos
+# Beecrowd 1044 - Múltiplos
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1044 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém dois valores inteiros A e B.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta "Sao Multiplos" caso os valores sejam múltiplos entre si, 
 
 
 
-\## Autor
+## Autor
 
 
 
